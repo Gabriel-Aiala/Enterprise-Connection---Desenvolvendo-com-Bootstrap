@@ -1,0 +1,48 @@
+.center {
+    text-align: center;
+    
+  }
+
+.hr{
+    background-color:  #1770b3;
+    height: 5px;
+    position: relative;
+    top: 5px;
+    border: none;
+    height: 20px;
+    
+    margin-bottom: 50px;
+
+}
+.titulo{
+    background-color: #17b34b;
+    height: 80px;
+
+}
+.col{
+    margin-top: 15px;
+}
+.footer{
+    background-color:  #ff5708;
+    height: 70px;
+    
+}
+a:link {
+    color: black;
+ }
+
+.btn{
+    background-color:  #17b34b;
+   margin-top: 30px;
+}
+.formulario{
+    background-color:  #1770b3;
+}
+.form-group{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+.container-fluid{
+    background-color: #ff5708;
+    
+}
